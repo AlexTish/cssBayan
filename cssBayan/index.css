@@ -24,7 +24,6 @@ div > p{
 }
 
 div{
-    /*border: 1px solid #000; */ 
     padding: 2% 2% 4% 2%; 
     background: url('icons8.png') top right no-repeat;
     background-size: 20px 20px;
