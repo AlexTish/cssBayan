@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+body{
+    background-color: rgb(249, 249, 204);
+    max-width: 1920px;
+    max-height: 1080px;
+    min-width: 320px;
+    min-height: 568px;
+    margin-top: 4%;
+}
+
+h1{
+    font-size: 45px;
+    padding-left: 14%;
+}
+
+div > p{
+    margin-left: 3%;
+    padding: 2% 0% 2% 0%;
+}
+
+div{
+    padding: 2% 2% 4% 2%; 
+    background: url('icons8.png') top right no-repeat;
+    background-size: 20px 20px;
+    border-top: 1px solid #acabab;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p{
+    font-size: 30px;
+    padding: 0px;
+    font-weight: 700;
+     
+}
+
+img.container{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #000;
+    width: 100%;
+    max-width: 400px;
+}
+
+.icon{
+    width: 30px; 
+    height: 30px;
+}
