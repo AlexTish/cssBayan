@@ -7,10 +7,13 @@
 body{
     background-color: rgb(249, 249, 204);
     max-width: 1920px;
+    max-height: 1080px;
+    min-width: 320px;
+    min-height: 568px;
 }
 
 h1{
-    font-size: 30px;
+    font-size: 45px;
     padding-left: 26%;
 }
 
@@ -26,12 +29,12 @@ div{
     background-size: 20px 20px;
     border-top: 1px solid #acabab;
     /*width: 50%; */
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 p{
-    font-size: 14px;
+    font-size: 30px;
     padding: 0px;
     font-weight: 700;
      
@@ -43,7 +46,7 @@ img.container{
     margin-right: auto;
     border: 1px solid #000;
     width: 100%;
-    max-width: 250px;
+    max-width: 700px;
 }
 
 .icon{
